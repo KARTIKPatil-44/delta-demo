@@ -5,4 +5,4 @@ This is demo for Git &amp; GitHub class.
 Shradha Kapra
 
 # student
-Sigma 6.0
+Sigma 6.0 (Kartik Patil)
